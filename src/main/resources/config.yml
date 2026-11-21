@@ -1,0 +1,2 @@
+# Passive effects are applied while a SpearSMP spear is anywhere in the player's inventory.
+passive-check-ticks: 40

@@ -1,0 +1,13 @@
+name: SpearSMP
+version: 2.0.0
+main: com.spearsmp.SpearSMP
+api-version: '1.21'
+author: SpearSMP
+description: Kill-based spear progression with passive tier effects.
+commands:
+  spear:
+    description: SpearSMP commands
+    usage: /spear <start|stats|give|reload|help>
+permissions:
+  spearsmp.admin:
+    default: op
